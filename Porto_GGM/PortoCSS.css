@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+  }
+  
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    background-color: #325567;
+    position: fixed; 
+    height: 100%; 
+    overflow: auto;
+  }
+  
+  li{
+size: 1000px;
+
+  }
+
+  li a {
+    display: block;
+    color: #ffffff;
+    padding: 82.5px 16px;
+    text-decoration: none;
+    font-family: 'Azonix';
+    text-align: center;
+    /* width: 200px;
+    height: 150px; */
+    
+  }
+  
+
+  li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+
+  div {
+    margin-left:20%;
+    padding:1px 16px;
+    height:1000px;
+
+
+  }
+
+
