@@ -57,6 +57,57 @@ size: 1000px;
   }
 
 
+  .child {
+    opacity: 0.8;
+    height: 150px;
+    background: #a790a5;
+    border: 3px dotted #895d75;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+
+  .child-2 {
+    opacity: 0.8;
+    height: 300px;
+    background: #a790a5;
+    border: 3px dotted #895d75;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    width: 50%;
+    bottom: 10px;
+  }
+  
+  .parent {
+    position: absolute;
+    background: orange;
+    width: 800px;
+    margin: 8vw 10vw;
+    height: 600px;
+    border: 5px #895d75;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 /* .flex-container {
   
