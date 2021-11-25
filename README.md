@@ -1,5 +1,11 @@
 # Portfolio_GGM
+ 
+Este é o repositório do Portofolio de Gonçalo Mendonça a22102498 onde fica armazenado todos os ficheiros relacionados ao site. 
 
 
+Index- pagina principal onde fica todo o site
 
-ola
+Porto_assets onde fica todos os ficheiros como imagens, pdf, css's, javascripts, etc 
+
+Link para o site: https://portofolioggm.netlify.app
+
